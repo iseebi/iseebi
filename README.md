@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=iseebi&theme=merko)
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs?username=iseebi&theme=merko&hide=JavaScript)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs?username=iseebi&theme=merko&hide=JavaScript&layout=compact)
